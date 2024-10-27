@@ -37,7 +37,7 @@ The Melanoma Prediction System introduces a CNN-based approach for skin lesion c
 - **Output Generation:** Results are displayed to the user with confidence scores.
 
 ## System Architecture:
-![Melanoma System Architecture](https://example.com/image.png)
+![Example](https://github.com/KATHIR1611/INTEGRATED-DIAGNOSIS-SYSTEM-FOR-MELANOMA-CANCER-/blob/main/Images/Screenshot%202024-10-27%20222457.png)
 
 ## Results & Implications:
 - **High Accuracy:** The system effectively distinguishes between benign and malignant lesions, supporting early melanoma detection.
